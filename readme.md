@@ -5,40 +5,49 @@ Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plu
 
 **Main features:**
 
--          Programable sound effects to play when measuring
 
--          Measure the resistance mainly of resistors
+- Measure the resistance of almost any resistor, and play a custom mp3 file depending on the result.
 
--          Flashlight
+- Built in flashlight
 
--          Gambling tool ( professional )
+- Has no addictive 4k screens
 
--          Windows 9 compatibility
+- Supports on-device gambling
 
--          Access to the All new GabroAI
+- Compatible with the latest Michaelsoft Mimbows 9 release
 
--          Built in self-defense functions
+- Also compatible with Linux based GabrOS systems ( in theory )
 
--          Phone stand
+- Access to the All new GabroAI 
 
--          Ruler
+- Built in self-defense functions
 
--          Tape holder
+- Kickstand
 
--          Screwdriver base
+- Ruler
 
--          Bluetooth keyboard
+- Tape holder
 
--          Toaster*
+- Screwdriver holder
 
--          Calculator
+- Bluetooth keyboard
 
--          Paperweight
+- Toaster*
 
--          Certified watermelon holder
+- Calculator
 
--          WiFi Access Point
+- Paperweight
 
--          HTTP Web server
+- Certified watermelon holder**
 
--          And much more....
+- WiFi Access Point
+
+- HTTP Web server
+
+- And much more....
+
+
+
+
+* if lit on fire by an external or internal effect ;)
+** certified by me myself
