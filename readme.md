@@ -32,13 +32,13 @@ Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plu
 
 - Bluetooth keyboard
 
-- Toaster*
+- Toaster\*
 
 - Calculator
 
 - Paperweight
 
-- Certified watermelon holder**
+- Certified watermelon holder\*\*
 
 - WiFi Access Point
 
@@ -49,5 +49,5 @@ Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plu
 
 
 
-* if lit on fire by an external or internal effect ;)
+\* if lit on fire by an external or internal effect ;)
 ** certified by me myself
