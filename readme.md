@@ -1,44 +1,44 @@
 # mmmp2
 
-**Termék megnevezése:**
+**Full name of device:**
 Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plusz 802.11ac Slim Limited Edition Barack Obama verified Epic No Touch II
 
-**Termék funckiói:**
+**Main features:**
 
--          Programozható hangefektek különböző ellenállásokhoz
+-          Programable sound effects to play when measuring
 
--          Ellenállások mérése
+-          Measure the resistance mainly of resistors
 
--          Hangefektek lejátszása
+-          Flashlight
 
--          Zseblámpa
+-          Gambling tool ( professional )
 
--          Szerencsejáték
+-          Windows 9 compatibility
 
--          Windows 9 kompaitibilitás
+-          Access to the All new GabroAI
 
--          GabroAI
+-          Built in self-defense functions
 
--          Beépített önvédelmi mód
+-          Phone stand
 
--          Telefontámasz
+-          Ruler
 
--          Vonalzó
+-          Tape holder
 
--          Celluxadagoló
+-          Screwdriver base
 
--          Csavarhúzótartó
+-          Bluetooth keyboard
 
--          Bluetooth billentűzet
+-          Toaster*
 
--          Kenyérpirító
+-          Calculator
 
--          Számológép
+-          Paperweight
 
--          Levélnehezék
-
--          Görögdinnyetartó
+-          Certified watermelon holder
 
 -          WiFi Access Point
 
-	-          HTTP Web server
+-          HTTP Web server
+
+-          And much more....
