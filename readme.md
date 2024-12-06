@@ -46,6 +46,8 @@ Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plu
 
 \> HTTP Web server
 
+\> Soul scanner
+
 \> And much more....
 
 
