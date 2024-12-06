@@ -14,11 +14,11 @@ Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plu
 
 \> Supports on-device gambling
 
-\> Compatible with the latest Michaelsoft Mimbows 9 release
+\> Compatible with the latest Michaelsoft Bimbows 9 release
 
 \> Also compatible with Linux based GabrOS systems ( in theory )
 
-\> Access to the All new GabroAI 
+\> Access to the all new GabroAI 
 
 \> Built in self-defense functions
 
