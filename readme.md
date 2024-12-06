@@ -1,7 +1,7 @@
 # mmmp2
 
 **Full name of device:**
-Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plusz 802.11ac Slim Limited Edition Barack Obama verified Epic No Touch II
+Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plusz 802.11ac Slim Limited Edition Barack Obama verified Epic No Touch II Szelence
 
 **Main features:**
 
