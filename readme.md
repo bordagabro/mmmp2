@@ -1,7 +1,7 @@
 # mmmp2
 
 **Full name of device:**
-Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plusz 802.11ac Slim Limited Edition Barack Obama verified Epic No Touch II
+Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plusz 802.11ac Slim Limited Edition Barack Obama verified Epic No Touch II  🎀 𝓢𝔃𝓮𝓵𝓮𝓷𝓬𝓮 🎀
 
 **Main features:**
 
@@ -14,11 +14,11 @@ Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plu
 
 \> Supports on-device gambling
 
-\> Compatible with the latest Michaelsoft Mimbows 9 release
+\> Compatible with the latest Michaelsoft Bimbows 9 release
 
 \> Also compatible with Linux based GabrOS systems ( in theory )
 
-\> Access to the All new GabroAI 
+\> Access to the all new GabroAI 
 
 \> Built in self-defense functions
 
@@ -45,6 +45,8 @@ Open GabroCom Multi-Multi-Multiméter Pro Max Ultra HD Audio 4K 60FPS 2000  Plu
 \> WiFi Access Point
 
 \> HTTP Web server
+
+\> Soul scanner
 
 \> And much more....
 
