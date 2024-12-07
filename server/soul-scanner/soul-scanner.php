@@ -11,21 +11,22 @@
         error_reporting(E_ALL);
     }
 
-    function push($text, $code){
+    function push($code){
         if(isset($_GET['type'])){
             if($_GET['type'] == 'code'){
-                return $code;
+                return $code[0];
             }
             else{
-                return $text;
+                return $code[1];
             }
         }
         else{
-            return $text;
+            return $code[0];
         }
     }
 
-    echo getApprString(2, $langPriority);
+    // 255 = random
+    echo getApprString(255, $langPriority)[0];
 
 
 ?>

@@ -5,6 +5,7 @@
     $debug = true;
 
     //Sets language priority. | default to HU, EN
+    //Currently supported languages: English [EN], and Hungarian [HU]
     $langPriority = array('HU', 'EN');
 
 ?>

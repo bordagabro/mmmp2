@@ -119,35 +119,44 @@ $sscRespEn = [
 ];
 
 
-$availLangs = array("HU", "EN");
+$availLangs = array('', 'HU', 'EN');
 $selLang = '';
 
 function getApprString($code, $lang){
+    global $sscRespHu;
     global $availLangs;
     global $selLang;
     global $sscRespHu;
     global $sscRespEn;
 
+
+    if($code == 255){
+        $code = rand(0, count($sscRespHu));
+    }
+
     $p = 0;
     foreach($lang as $i){
-        if(array_search($i, $availLangs)){
-            if($p == 0){
-                $p = 1;
-                $selLang = $i;
-            }
+        if($p == 0 and array_search($i, $availLangs) != false){
+            $p = 1;
+            $selLang = $i;
         }
     }
 
+
     if($p == 0){
-        echo "E";
+        echo "E: NORESP ( server/soul-scanner/responses.php | 2 )";
     }
     else{
+        $retVal = array('E: NORESP ( server/soul-scanner/responses.php | 0 )', 'E: NORESP ( server/soul-scanner/responses.php | 1 )');
         if($selLang == 'HU'){
-            return $sscRespHu[$code];
+            $retVal[0] = $sscRespHu[$code];
         }
         else if($selLang == 'EN'){
-            return $sscRespEn[$code];
+            $retVal[0] = $sscRespEn[$code];
         }
+        $retVal[1] = $code;
+
+        return $retVal;
     }
 }
 
